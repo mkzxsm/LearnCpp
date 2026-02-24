@@ -1,0 +1,3 @@
+Is Valid: Yes
+Last Valid: 3|0
+Doubles: 4|4
